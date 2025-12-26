@@ -1,0 +1,11 @@
+# China AI Blocklist
+DOMAIN-SUFFIX,openai.com          # ChatGPT / OpenAI
+DOMAIN-SUFFIX,chat.openai.com     # ChatGPT web app
+DOMAIN-SUFFIX,api.openai.com      # OpenAI API endpoints
+DOMAIN-SUFFIX,anthropic.com       # Claude AI
+DOMAIN-SUFFIX,claude.ai           # Claude AI web app
+DOMAIN-SUFFIX,gemini.google.com   # Google Gemini
+DOMAIN-SUFFIX,huggingface.co      # Hugging Face models
+DOMAIN-SUFFIX,poe.com             # Poe (Quora AI)
+DOMAIN-SUFFIX,character.ai        # Character.AI
+DOMAIN-SUFFIX,perplexity.ai       # Perplexity AI

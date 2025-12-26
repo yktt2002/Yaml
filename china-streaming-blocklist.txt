@@ -1,0 +1,13 @@
+# China Streaming Blocklist
+
+DOMAIN-SUFFIX,youtube.com         # YouTube
+DOMAIN-SUFFIX,ytimg.com           # YouTube assets
+DOMAIN-SUFFIX,netflix.com         # Netflix
+DOMAIN-SUFFIX,nflxvideo.net       # Netflix CDN
+DOMAIN-SUFFIX,twitch.tv           # Twitch
+DOMAIN-SUFFIX,vimeo.com           # Vimeo
+DOMAIN-SUFFIX,soundcloud.com      # SoundCloud
+DOMAIN-SUFFIX,spotify.com         # Spotify
+DOMAIN-SUFFIX,discord.com         # Discord (chat + streaming)
+DOMAIN-SUFFIX,hulu.com            # Hulu
+ 
