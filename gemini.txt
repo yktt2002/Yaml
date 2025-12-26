@@ -16,6 +16,7 @@ DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googleusercontent.com
 
 # Optional: isolate Gemini from general Google traffic
-DOMAIN-KEYWORD,generative
-DOMAIN-KEYWORD,ai
+# DOMAIN-KEYWORD,generative
+# DOMAIN-KEYWORD,ai
+
 
