@@ -1,10 +1,9 @@
-# Hong Kong Blocklist (political/activist sites)
+# Hong Kong AI Blocklist (AI tools/services)
 payload:
-  - DOMAIN-SUFFIX,hkchronicles.com        # Protest-related site, blocked in 2021
-  - DOMAIN-SUFFIX,hongkongwatch.org       # UK-based human rights advocacy group
-  - DOMAIN-SUFFIX,2021hkcharter.com       # Pro-democracy activist charter site
-  - DOMAIN-SUFFIX,june4museum.com         # Tiananmen commemoration museum site
-  - DOMAIN-SUFFIX,flowhk.com              # Overseas HK magazine, blocked in 2024
-  - DOMAIN-SUFFIX,taiwanjustice.org       # Taiwan independence advocacy (reported blocked)
-  - DOMAIN-SUFFIX,usnavy.mil              # US military-linked domains (reported restricted)
-
+  - DOMAIN-SUFFIX,openai.com          # ChatGPT / OpenAI services
+  - DOMAIN-SUFFIX,chat.openai.com     # ChatGPT web app
+  - DOMAIN-SUFFIX,api.openai.com      # OpenAI API endpoints
+  - DOMAIN-SUFFIX,poe.com             # Poe (Quora AI platform, limited access)
+  - DOMAIN-SUFFIX,anthropic.com       # Claude AI (potentially restricted in future)
+  - DOMAIN-SUFFIX,gemini.google.com   # Google Gemini AI (under policy scrutiny)
+  - DOMAIN-SUFFIX,huggingface.co      # Hugging Face (model hosting, sometimes throttled)
