@@ -1,9 +1,0 @@
-# Hong Kong AI Blocklist (AI tools/services)
-payload:
-  - DOMAIN-SUFFIX,openai.com          # ChatGPT / OpenAI services
-  - DOMAIN-SUFFIX,chat.openai.com     # ChatGPT web app
-  - DOMAIN-SUFFIX,api.openai.com      # OpenAI API endpoints
-  - DOMAIN-SUFFIX,poe.com             # Poe (Quora AI platform, limited access)
-  - DOMAIN-SUFFIX,anthropic.com       # Claude AI (potentially restricted in future)
-  - DOMAIN-SUFFIX,gemini.google.com   # Google Gemini AI (under policy scrutiny)
-  - DOMAIN-SUFFIX,huggingface.co      # Hugging Face (model hosting, sometimes throttled)
