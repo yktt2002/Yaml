@@ -1,0 +1,20 @@
+# Google Gemini UI
+DOMAIN,gemini.google.com
+DOMAIN,ai.google.dev
+DOMAIN,ai.googleusercontent.com
+
+# Gemini API (Generative Language API)
+DOMAIN,content-generativelanguage.googleapis.com
+DOMAIN,content-generativelanguage-pa.googleapis.com
+
+# Gemini AI Sandbox
+DOMAIN,content-aisandbox.googleapis.com
+DOMAIN,content-aisandbox-pa.googleapis.com
+
+# Broader Google AI API coverage
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,googleusercontent.com
+
+# Optional: isolate Gemini from general Google traffic
+DOMAIN-KEYWORD,generative
+DOMAIN-KEYWORD,ai
