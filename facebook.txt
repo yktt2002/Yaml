@@ -1,0 +1,13 @@
+# --- Meta (Facebook, Instagram, WhatsApp) Direct Rules ---
+- DOMAIN-KEYWORD,facebook,DIRECT
+- DOMAIN-KEYWORD,instagram,DIRECT
+- DOMAIN-KEYWORD,whatsapp,DIRECT
+- DOMAIN-SUFFIX,facebook.com,DIRECT
+- DOMAIN-SUFFIX,fbcdn.net,DIRECT
+- DOMAIN-SUFFIX,fbsbx.com,DIRECT
+- DOMAIN-SUFFIX,fb.me,DIRECT
+- DOMAIN-SUFFIX,instagram.com,DIRECT
+- DOMAIN-SUFFIX,cdninstagram.com,DIRECT
+- DOMAIN-SUFFIX,whatsapp.com,DIRECT
+- DOMAIN-SUFFIX,whatsapp.net,DIRECT
+- DOMAIN-SUFFIX,threads.net,DIRECT
