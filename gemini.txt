@@ -20,6 +20,11 @@ DOMAIN,content-aisandbox-pa.googleapis.com
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googleusercontent.com
 
+DOMAIN-SUFFIX,accounts.google.com
+DOMAIN-SUFFIX,clients1.google.com
+DOMAIN-SUFFIX,oauth.googleusercontent.com
+
 # Optional: isolate Gemini from general Google traffic
 DOMAIN-KEYWORD,generative
+
 
