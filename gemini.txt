@@ -7,7 +7,6 @@ DOMAIN-SUFFIX,ai.google.dev
 DOMAIN-SUFFIX,ai.googleusercontent.com
 DOMAIN-SUFFIX,aiplatform.googleapis.com
 
-
 # Gemini API (Generative Language API)
 DOMAIN,content-generativelanguage.googleapis.com
 DOMAIN,content-generativelanguage-pa.googleapis.com
@@ -23,8 +22,10 @@ DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,accounts.google.com
 DOMAIN-SUFFIX,clients1.google.com
 DOMAIN-SUFFIX,oauth.googleusercontent.com
+DOMAIN-SUFFIX,+.google.com
 
 # Optional: isolate Gemini from general Google traffic
 DOMAIN-KEYWORD,generative
+
 
 
