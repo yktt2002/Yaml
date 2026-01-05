@@ -25,7 +25,8 @@ DOMAIN-SUFFIX,oauth.googleusercontent.com
 
 # Optional: isolate Gemini from general Google traffic
 DOMAIN-KEYWORD,generative
-DOMAIN-KEYWORD,google
+
+
 
 
 
